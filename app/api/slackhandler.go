@@ -12,7 +12,7 @@ import (
 	"github.com/gogf/gf/v2/frame/g"
 	"github.com/slack-go/slack"
 	"github.com/slack-go/slack/socketmode"
-	"github.com/yongchengchen/wsproxy/app/service"
+	"github.com/yongchengchen/goslackapp/app/service"
 )
 
 var sydneyTimeZone, _ = time.LoadLocation("Australia/Sydney")

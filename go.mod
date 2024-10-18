@@ -1,4 +1,4 @@
-module github.com/yongchengchen/wsproxy
+module github.com/yongchengchen/goslackapp
 
 go 1.11
 

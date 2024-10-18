@@ -3,7 +3,7 @@ package main
 import (
 	"flag"
 
-	"github.com/yongchengchen/wsproxy/app/api"
+	"github.com/yongchengchen/goslackapp/app/api"
 
 	"github.com/gogf/gf/v2/frame/g"
 	"github.com/gogf/gf/v2/os/gctx"
